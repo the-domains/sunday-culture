@@ -1,6 +1,6 @@
 name: Sunday Culture
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.9011050998233259
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: shares
     item: null
     url: null
+typography_spectrum: 0.6481917973142117
